@@ -1,0 +1,1 @@
+uniqueId:generated while making the dictionary, name, brand, price, in stock, rented quantity (as a whole)

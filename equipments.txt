@@ -1,0 +1,3 @@
+Camera,Canon,$1000,0,1210
+Speakers,Bose,$500,76,124
+Lightings,Philips,$400,200,0
